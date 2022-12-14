@@ -1,7 +1,7 @@
 ### <b>Hi!!! Welcome to my GitHub :)</b>
 -------------------------------------------------------
 
-I am currently a High School senior @CEDI's BID program, which is CS-Oriented.<br>
+I am currently a high school senior @CEDI's BID program, which is CS-Oriented.<br>
 Contact me through my e-mail: jimena.olivares.rivera28@gmail.com
 
 <b>Some fun facts about me</b>
