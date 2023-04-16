@@ -10,4 +10,4 @@ Contact me through my e-mail: jimena.olivares.rivera28@gmail.com
 - 💻 Programming languages I know: PHP, HTML, JavaScript, C++, Python
 - 💬 Languages I speak: English, Spanish, and French
 - 🙋‍♀️ Pronouns: she/her
-- 👩‍🔬 Looking forward to studying: Chemical Engineering
+- 👩‍🔬 Starting study @UPenn's VIPER program in CS & Chemistry in the Fall
