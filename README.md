@@ -7,7 +7,6 @@ Contact me through my e-mail: jimena.olivares.rivera28@gmail.com
 <b>Some fun facts about me</b>
 - 🇲🇽 Based in Mexico
 - 👩‍💻 Competitive Programmer (OFMI 2022 🥉/ OMIJAL 2022 🥈)
-- 💻 Programming languages I know: PHP, HTML, JavaScript, C++, Python
+- 💻 Programming languages I know: PHP, JavaScript, C++, Python, TypeScript
 - 💬 Languages I speak: English, Spanish, and French
-- 🙋‍♀️ Pronouns: she/her
-- 👩‍🔬 Starting study @UPenn's VIPER program in CS & Chemistry in the Fall
+- 👩‍🔬 Incoming freshman @UPenn's VIPER program in CS & Chemistry
