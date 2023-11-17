@@ -9,4 +9,4 @@ Contact me through my e-mail: jimena.olivares.rivera28@gmail.com
 - 👩‍💻 Competitive Programmer (OFMI 2022 🥉/ OMIJAL 2022 🥈)
 - 💻 Programming languages I know: PHP, JavaScript, C++, Python, TypeScript, OCaml, Java
 - 💬 Languages I speak: English, Spanish, and French
-- 👩‍🔬 I love the intersection between sciences!
+- 👩‍🔬 I love the intersection between the sciences!
