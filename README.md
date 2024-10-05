@@ -11,7 +11,7 @@
 <h2>Programming Languages and Technologies I know</h2>
 
 <a  href="#"><img  src="https://img.shields.io/badge/-C++-0D1117?style=rounded-square&logo=cplusplus&logoColor=D02929"></a>
-<a  href="#"><img  src="https://img.shields.io/badge/-Java-0D1117?style=rounded-square&logo=java&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/-Java-0D1117?style=rounded-square&logo=jav&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/-Python-0D1117?style=rounded-square&logo=python&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/-JavaScript-0D1117?style=rounded-square&logo=javascript&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/-TypeScript-0D1117?style=rounded-square&logo=typescript&logoColor=D02929"></a>
