@@ -23,8 +23,9 @@
 <a  href="#"><img  src="https://img.shields.io/badge/Ionic-0D1117.svg?style=rounded-square&logo=ionic&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/Electron-0D1117.svg?style=rounded-square&logo=electron&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/MySQL-0D1117.svg?style=rounded-square&logo=mysql&logoColor=D02929"></a>
-<a  href="#"><img  src="https://img.shields.io/badge/3DSMax-0D1117.svg?style=rounded-square&logo=3dsmax&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/Adobe 3DSMax-0D1117.svg?style=rounded-square&logo=3dsmax&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/Adobe Photoshop-0D1117.svg?style=rounded-square&logo=photoshop&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/Adobe Premiere Pro-0D1117.svg?style=rounded-square&logo=premiere&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/Arduino-0D1117.svg?style=rounded-square&logo=arduino&logoColor=D02929"></a>
 
 
