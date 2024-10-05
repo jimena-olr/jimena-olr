@@ -21,5 +21,7 @@
 <a  href="#"><img  src="https://img.shields.io/badge/GitHub-0D1117.svg?style=rounded-square&logo=github&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/Angular-0D1117.svg?style=rounded-square&logo=angular&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/Ionic-0D1117.svg?style=rounded-square&logo=ionic&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/Electron-0D1117.svg?style=rounded-square&logo=electron&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/MySQL-0D1117.svg?style=rounded-square&logo=mysql&logoColor=D02929"></a>
 
 
