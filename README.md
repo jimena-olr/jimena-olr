@@ -29,5 +29,5 @@
 <a  href="#"><img  src="https://img.shields.io/badge/Arduino-0D1117.svg?style=rounded-square&logo=arduino&logoColor=D02929"></a>
 
 
-<h2>Take a look at some of my projects below!</h2>
+<h3>Take a look at some of my projects below!</h3>
 
