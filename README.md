@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<a  href="mailto:jimenao@seas.upenn.edu"  target="_blank"><img  src="https://img.shields.io/badge/-Email-D02929?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:jimenao@seas.upenn.edu"><img  src="https://img.shields.io/badge/-Email-D02929?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a  href="https://www.linkedin.com/in/jimena-olivares-rivera-6680aa231/"  target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-D02929?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
