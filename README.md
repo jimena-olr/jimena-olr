@@ -30,7 +30,7 @@
 <a  href="#"><img  src="https://img.shields.io/badge/Docker-0D1117.svg?style=rounded-square&logo=docker&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/AWS-0D1117.svg?style=rounded-square&logo=amazonwebservices&logoColor=D02929"></a>
 <a  href="#"><img  src="https://img.shields.io/badge/ChromaDB-0D1117.svg?style=rounded-square&logo=awselasticloadbalancing&logoColor=D02929"></a>
-<a  href="#"><img  src="https://img.shields.io/badge/C-0D1117.svg?style=rounded-square&logo=c&logoColor=D02929"></a>
+<a  href="#"><img  src="https://img.shields.io/badge/C-0D1117.svg?style=rounded-square&logo=c&logoColor=964b96"></a>
 
 
 <h3>Take a look at some of my projects below!</h3>
